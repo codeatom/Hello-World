@@ -6,4 +6,6 @@
 | 4| `git branch --show-current` | Displays the name of the current branch. |
 | 5 | `git switch -c my-hello-world-branch` | Creates and switches to a new branch called `my-hello-world-branch`. |
 | 6| `git branch` | Lists all local branches and marks the current branch with `*`. |
-
+|7| `git add commands.md` | Adds changes made to commands.md |
+|8| `git commit -m "commit-message-here"` | Commits changes made |
+|9| `git push -u origin my-hello-world-branch` | Pushes the branch my-hello-world-branch to github |
