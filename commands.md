@@ -12,3 +12,4 @@
 |10| `git switch main` | Switches from a branch to main|
 |11| `git merge my-hello-world-branch` | Merges branch to main |
 |12| `git push origin main` | pushes the updated main to github |
+|13| `git restore --source=91b9da6 README.md` | Restored README.md to it's original cloned state|
