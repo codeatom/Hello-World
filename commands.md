@@ -9,3 +9,6 @@
 |7| `git add commands.md` | Adds changes made to commands.md |
 |8| `git commit -m "commit-message-here"` | Commits changes made |
 |9| `git push -u origin my-hello-world-branch` | Pushes the branch my-hello-world-branch to github |
+|10| `git switch main` | Switches from a branch to main|
+|11| `git merge my-hello-world-branch` | Merges branch to main |
+|12| `git push origin main` | pushes the updated main to github |
