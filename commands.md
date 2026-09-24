@@ -4,4 +4,6 @@
 | 2 | `git remote -v` | Displays the URLs of the configured remote r3| `git remote set-url origin https://github.com/codeatom/Hello-World.git` | Changes the URL of the `origin` remote repository. |
 |3 | `git push -u origin main` | Pushes the local `main` branch to the `origin` remote. |
 | 4| `git branch --show-current` | Displays the name of the current branch. |
+| 5 | `git switch -c my-hello-world-branch` | Creates and switches to a new branch called `my-hello-world-branch`. |
+| 6| `git branch` | Lists all local branches and marks the current branch with `*`. |
 
